@@ -20,3 +20,5 @@ Technologies web
 - Struts2
 
 'JSF' comme nouvelle technologie web
+
+Application lourd: Technologie Swing
